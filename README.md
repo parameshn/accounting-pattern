@@ -9,6 +9,8 @@ Implementation of Martin Fowler's [Accounting Patterns article](http://martinfow
 
 ## Build and Test
 
+Run the following command to build the project and execute the verification tests:
+
 ```bash
 mvn verify
 ```
