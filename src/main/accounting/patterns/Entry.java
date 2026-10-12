@@ -1,4 +1,4 @@
-package accounting.patterns;
+package main.accounting.patterns;
 
 import java.time.LocalDate;
 import java.util.Objects;
