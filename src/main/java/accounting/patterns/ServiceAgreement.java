@@ -1,4 +1,4 @@
-package main.accounting.patterns;
+package accounting.patterns;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;

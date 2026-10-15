@@ -1,4 +1,4 @@
-package main.accounting.patterns;
+package accounting.patterns;
 /**
  * Represents a quantity value in the accounting system.
  * This record is immutable and thread-safe.

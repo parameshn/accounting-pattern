@@ -1,5 +1,4 @@
-package main.accounting.patterns;
-
+package accounting.patterns;
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
