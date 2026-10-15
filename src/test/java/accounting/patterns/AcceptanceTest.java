@@ -1,8 +1,8 @@
-package test;
+package accounting.patterns;
 
 import org.junit.jupiter.api.Test;
 
-import main.accounting.patterns.*;
+import accounting.patterns.*;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;
